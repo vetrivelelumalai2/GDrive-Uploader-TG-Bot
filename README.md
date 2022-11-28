@@ -19,7 +19,7 @@
 ### Installation
 - Clone this git repository.
 ```sh 
-git clone https://github.com/cdfxscrq/gdrive-uploader-telegram-bot
+git clone https://github.com/vetrivelelumalai2/gdrive-uploader-telegram-bot
 ```
 - Change Directory
 ```sh 
@@ -42,7 +42,7 @@ python3 bot.py
 ```
 ## Deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cdfxscrq/gdrive-uploader-telegram-bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vetrivelelumalai2/gdrive-uploader-telegram-bot/tree/master)
 
 - Note: Bot is in beta stage. Maybe it throw some errors.
 
